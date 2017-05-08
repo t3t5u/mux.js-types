@@ -1,0 +1,8 @@
+{
+    "name": "@types/mux.js",
+    "version": "4.1.0",
+    "main": "",
+    "repository": "git@github.com:t3t5u/mux.js-types.git",
+    "author": "t3t5u <t3t5u.5an0@gmail.com>",
+    "license": "MIT"
+}
